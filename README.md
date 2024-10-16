@@ -53,6 +53,9 @@ RegisterNumber:212223040217
 ![exp 5 rtl logic](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/c8cb2265-4505-4f56-a177-9e8f038f47ae)
 
 
+
+
+
 ## OUTPUT:
 ![exp 5 tt](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/d853a781-f957-440c-84f7-bf062b963455)
 
