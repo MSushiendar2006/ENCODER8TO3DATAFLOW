@@ -1,4 +1,4 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### ENCODER 8 TO 3 DATAFLOW Modelling
 
 ## AIM:
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -57,6 +57,8 @@ RegisterNumber:212223040217
 
 
 ## OUTPUT:
+
+
 ![exp 5 tt](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/d853a781-f957-440c-84f7-bf062b963455)
 
 ## RESULT:
